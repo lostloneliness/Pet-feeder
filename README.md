@@ -34,6 +34,24 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 >
 >8、每次喂食的情况和异常都会通过APP实时显示。
 
+
+#### 所需材料
+>1、stm32f104最小系统板
+
+>2、H桥直流电机驱动功能板
+
+>3、语音 Wi-Fi 通信板（VWXR2）或 Wi-Fi MCU 通信板（WB3S）
+
+>4、语音播放模块
+
+>5、小夜灯
+
+>6、直流电机
+
+>7、电子称套件
+
+>8、涂鸦APP
+
 三、开发计划
 ------------
 3月1日~3月8日：确定计划方案。
